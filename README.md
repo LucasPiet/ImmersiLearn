@@ -1,7 +1,7 @@
 # ImmersiLearn
 Plataforma de Educação Imersiva
 
-História de Usuário:
+# História de Usuário
 
 Como um indivíduo buscando aprendizado e bem-estar,
 
@@ -9,7 +9,7 @@ QUERO utilizar uma plataforma deeducação imersiva,
 
 PARA QUE eu possa aprender de forma engajadora e promover o meu bem-estar.
 
-Requisitos:
+# Requisitos
 
 ➔ Aprendizado ativo com imersão em ambientes virtuais.
 
@@ -21,8 +21,7 @@ Requisitos:
 
 ➔ Desenvolvimento de habilidades sociais com interação em ambientes virtuais.
 
-Como os projetos podem impactar positivamente a saúde física e mental dos
-indivíduos?
+# Como os projetos podem impactar positivamente a saúde física e mental dos indivíduos?
 
 ➔ Redução do sedentarismo com jogos e exercícios virtuais.
 
